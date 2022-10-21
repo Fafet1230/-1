@@ -1,0 +1,4 @@
+x= int(input())
+i= int(input())
+a = x-i
+print(a)
